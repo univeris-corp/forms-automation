@@ -1,2 +1,2 @@
-pyodbc
-pypdf
+pyodbc==5.2.0
+pypdf==6.15.0

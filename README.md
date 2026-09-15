@@ -1,5 +1,8 @@
 # Automation - Loading of EWMS Self-Serve Forms
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
+
 `ewms_form_loader.py` is a Python utility that automates EWMS Self-Serve Forms directly in a tenant database (aims to replicate UI flow CLI style).
 
 ## Setup

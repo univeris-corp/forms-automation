@@ -25,15 +25,15 @@ python ewms_form_loader.py load-package-forms `
 
 ## Loader Parameters
 
-| # | Parameter                         | Type | Required | Notes                                                                   |
-| - | --------------------------------- | ---- | -------- | ----------------------------------------------------------------------- |
-| 1 | `--forms-package`               | Path | Yes      | Path to forms_package.json                                              |
-| 2 | `--tenants`                     | Path | Yes      | Path to tenants.json                                                    |
-| 3 | `--db-user`                     | Text | No       | SQL Server login name                                                   |
-| 4 | `--db-password`                 | Text | No       | SQL Server login password                                               |
-| 5 | `--db-driver`                   | Text | No       | Installed pyodbc driver                                                 |
-| 6 | `--apply`                       | Flag | No       | Commit the transactions; otherwise dry run with rollback                |
-| 7 | `--yes`                         | Flag | No       | Skip the update confirmation prompt on`--apply`, for unattended runs. |
+| Parameter                         | Type | Required | Notes                                                                   |
+| --------------------------------- | ---- | -------- | ----------------------------------------------------------------------- |
+| `--forms-package`               | Path | Yes      | Path to forms_package.json                                              |
+| `--tenants`                     | Path | Yes      | Path to tenants.json                                                    |
+| `--db-user`                     | Text | No       | SQL Server login name                                                   |
+| `--db-password`                 | Text | No       | SQL Server login password                                               |
+| `--db-driver`                   | Text | No       | Installed pyodbc driver                                                 |
+| `--apply`                       | Flag | No       | Commit the transactions; otherwise dry run with rollback                |
+| `--yes`                         | Flag | No       | Skip the update confirmation prompt on`--apply`, for unattended runs. |
 
 ---
 
@@ -61,14 +61,14 @@ python ewms_form_loader.py load-package-forms `
 
 ## Forms Package Parameters
 
-| # | Parameter                          | Required | Default (at creation)                       | On update (existing form)                                                     | Description                                                        |
-| - | ---------------------------------- | -------- | ------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 1 | `form_code`                      | Yes      | –                                          | Lookup key (never changed)                                                    | SSF_ID, globally unique in the database (max 30 chars)             |
-| 2 | `english_name` / `french_name` | Yes      | –                                          | Replaced when content differs                                                 | Template display names (max 150 chars)                             |
-| 3 | `eng_pdf` / `fre_pdf`          | Yes      | –                                          | Replaced when content (SHA-256) differs                                       | Paths to the English and French PDF files, relative to`base_dir` |
-| 4 | `tags`                           | No       | No tags                                     | Full replace when supplied (`[]` removes all tags); omit to leave untouched | Tag names; each must already exist in`S_SSF_TAG`                 |
-| 5 | `status`                         | No       | A                                           | Synced when supplied; omit to leave unchanged                                 | A (Active), I (Inactive), E (Expired)                              |
-| 6 | `start_date` / `end_date`      | No       | `start_date` = today, `end_date` = none | Synced when supplied; omit to leave unchanged                                 | YYYY-MM-DD                                                         |
+| Parameter                          | Required | Default (at creation)                       | On update (existing form)                                                     | Description                                                        |
+| ---------------------------------- | -------- | ------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| `form_code`                      | Yes      | –                                          | Lookup key (never changed)                                                    | SSF_ID, globally unique in the database (max 30 chars)             |
+| `english_name` / `french_name` | Yes      | –                                          | Replaced when content differs                                                 | Template display names (max 150 chars)                             |
+| `eng_pdf` / `fre_pdf`          | Yes      | –                                          | Replaced when content (SHA-256) differs                                       | Paths to the English and French PDF files, relative to`base_dir` |
+| `tags`                           | No       | No tags                                     | Full replace when supplied (`[]` removes all tags); omit to leave untouched | Tag names; each must already exist in`S_SSF_TAG`                 |
+| `status`                         | No       | A                                           | Synced when supplied; omit to leave unchanged                                 | A (Active), I (Inactive), E (Expired)                              |
+| `start_date` / `end_date`      | No       | `start_date` = today, `end_date` = none | Synced when supplied; omit to leave unchanged                                 | YYYY-MM-DD                                                         |
 
 ---
 

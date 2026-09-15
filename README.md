@@ -1,4 +1,6 @@
-# Automation - Loading of EWMS Self-Serve Forms`ewms_form_loader.py` is a Python utility that automates EWMS Self-Serve Forms directly in a tenant database (aims to replicate UI flow CLI style).
+# Automation - Loading of EWMS Self-Serve Forms
+
+`ewms_form_loader.py` is a Python utility that automates EWMS Self-Serve Forms directly in a tenant database (aims to replicate UI flow CLI style).
 
 ## Setup
 
@@ -33,7 +35,7 @@ python ewms_form_loader.py load-package-forms `
 
 `forms_package.json` (one entry per form):
 
-```json
+```text
 {
   "base_dir": "Univeris-Network-Express-Forms-Library-May-15-2026",
   "forms": [
@@ -68,7 +70,7 @@ python ewms_form_loader.py load-package-forms `
 
 `tenants.json` (one entry per target tenant database):
 
-```json
+```text
 {
   "FLEX_TEST": {
     "db_host": "flextest-uat-db.flex.univeris.com",

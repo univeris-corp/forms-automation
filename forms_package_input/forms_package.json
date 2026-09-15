@@ -1,0 +1,638 @@
+{
+  "base_dir": "Univeris-Network-Express-Forms-Library-May-15-2026",
+  "forms": [
+    {
+      "form_code": "AIM-NAAF-INVESTMENT",
+      "english_name": "AIM Invesco Investment Application",
+      "french_name": "AIM Demande de placement Invesco",
+      "eng_pdf": "AIM/AIM-NAAF-INVESTMENT-EN-0225.pdf",
+      "fre_pdf": "AIM/AIM-NAAF-INVESTMENT-FR-0225.pdf",
+      "status": "A",
+      "start_date": "2026-08-17",
+      "end_date": "2030-12-31",
+      "tags": [
+        "NAAF",
+        "AIM"
+      ]
+    },
+    {
+      "form_code": "AIM-NAAF-RESP-FAMILY",
+      "english_name": "AIM Invesco Family Education Savings Plan Application",
+      "french_name": "AIM Demande d’adhésion au régime d’épargne-études familial Invesco",
+      "eng_pdf": "AIM/AIM-NAAF-RESP_FAMILY-EN-0225.pdf",
+      "fre_pdf": "AIM/AIM-NAAF-RESP_FAMILY-FR-0225.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "AIM"
+      ]
+    },
+    {
+      "form_code": "AIM-NAAF-RESP-INDIVIDUAL",
+      "english_name": "AIM Invesco Individual Education Savings Plan Application",
+      "french_name": "AIM Demande d’adhésion au régime d’épargne-études individuel Invesco",
+      "eng_pdf": "AIM/AIM-NAAF-RESP_INDIVIDUAL-EN-0225.pdf",
+      "fre_pdf": "AIM/AIM-NAAF-RESP_INDIVIDUAL-FR-0225.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "AIM"
+      ]
+    },
+    {
+      "form_code": "AIM-NAAF-TFSA",
+      "english_name": "AIM Invesco Tax-Free Savings Account Application",
+      "french_name": "AIM Invesco Compte d’épargne libre d’impôt Demande d’adhésion",
+      "eng_pdf": "AIM/AIM-NAAF-TFSA-EN-0225.pdf",
+      "fre_pdf": "AIM/AIM-NAAF-TFSA-FR-0225.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "AIM"
+      ]
+    },
+    {
+      "form_code": "AIM-REGISTERED-TRANSFER",
+      "english_name": "AIM Invesco Transfer Authorization for Registered Investments",
+      "french_name": "AIM Autorisation de transfert de placements enregistrés Invesco",
+      "eng_pdf": "AIM/AIM-REGISTERED_TRANSFER-EN.pdf",
+      "fre_pdf": "AIM/AIM-REGISTERED_TRANSFER-FR.pdf",
+      "tags": [
+        "XIN",
+        "AIM"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-INVESTMENT",
+      "english_name": "ATL Renaissance Investment Application",
+      "french_name": "ATL Formulaire d'adhésion Renaissance",
+      "eng_pdf": "ATL/ATL-NAAF-INVESTMENT-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-INVESTMENT-FR.pdf",
+      "tags": [
+        "NAAF",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-RESP-FAMILY",
+      "english_name": "ATL Renaissance Family Education Savings Plan",
+      "french_name": "ATL Régime d’épargne-études familial Renaissance",
+      "eng_pdf": "ATL/ATL-NAAF-RESP_FAMILY-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-RESP_FAMILY-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-RESP-INDIVIDUAL",
+      "english_name": "ATL Renaissance Individual Education Savings Plan",
+      "french_name": "ATL Régime d’épargne-études individuel Renaissance",
+      "eng_pdf": "ATL/ATL-NAAF-RESP_INDIVIDUAL-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-RESP_INDIVIDUAL-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-RRIF-BENEFICIARY",
+      "english_name": "ATL Renaissance Investments Registered Retirement Income Fund (RRIF) Successor Annuitant and/or Other Beneficiary Designation Form",
+      "french_name": "ATL Renaissance Fonds enregistré de revenu de retraite (FERR) Formulaire de désignation d’un rentier successeur et/ou d’un autre bénéficiaire",
+      "eng_pdf": "ATL/ATL-NAAF-RRIF-BENEFICIARY-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-RRIF-BENEFICIARY-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RRIF",
+        "BENEFICIARY",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-RRSP-BENEFICIARY",
+      "english_name": "ATL Renaissance Investments Registered Retirement Savings Plan (RRSP) Beneficiary Designation Form",
+      "french_name": "ATL Investissements Renaissance Régime enregistré d’épargne-retraite (REER) Formulaire de désignation de bénéficiaire",
+      "eng_pdf": "ATL/ATL-NAAF-RRSP-BENEFICIARY-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-RRSP-BENEFICIARY-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RRSP",
+        "BENEFICIARY",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-NAAF-TFSA",
+      "english_name": "ATL Renaissance Tax-Free Savings Account Application",
+      "french_name": "ATL Compte d’épargne libre d’impôt Renaissance",
+      "eng_pdf": "ATL/ATL-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "ATL/ATL-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "ATL-REGISTERED-TRANSFER",
+      "english_name": "ATL Renaissance Transfer Authorization for Registered Investments",
+      "french_name": "ATL Autorisation de transfert de placements enregistrés Renaissance",
+      "eng_pdf": "ATL/ATL-REGISTERED_TRANSFER-EN.pdf",
+      "fre_pdf": "ATL/ATL-REGISTERED_TRANSFER-FR.pdf",
+      "tags": [
+        "XIN",
+        "ATL"
+      ]
+    },
+    {
+      "form_code": "CIB-NAAF-INVESTMENT",
+      "english_name": "CIB Investment Application",
+      "french_name": "CIB Demande de placement CIBC",
+      "eng_pdf": "CIB/CIB-NAAF-INVESTMENT-EN.pdf",
+      "fre_pdf": "CIB/CIB-NAAF-INVESTMENT-FR.pdf",
+      "tags": [
+        "NAAF",
+        "CIB"
+      ]
+    },
+    {
+      "form_code": "CIB-NAAF-TFSA",
+      "english_name": "CIB Tax-Free Savings Account Application",
+      "french_name": "CIB Compte d’épargne libre d’impôt CIBC",
+      "eng_pdf": "CIB/CIB-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "CIB/CIB-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "CIB"
+      ]
+    },
+    {
+      "form_code": "FID-CORP-ENTITY-APPLICATION",
+      "english_name": "FID Fidelity Corp Entity Application",
+      "french_name": "FID Fidelity Corp Entity Application",
+      "eng_pdf": "FID/Fidelity Corp Entity Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity Corp Entity Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-FHSA-APPLICATION",
+      "english_name": "FID Fidelity First Home Savings Account (FHSA) Application",
+      "french_name": "FID Fidelity First Home Savings Account (FHSA) Application",
+      "eng_pdf": "FID/Fidelity FHSA Application_EN_0825.pdf",
+      "fre_pdf": "FID/Fidelity FHSA Application_FR_0825.pdf",
+      "tags": [
+        "NAAF",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-FAMILY-RESP-APPLICATION",
+      "english_name": "FID Fidelity Application for Family ESP account",
+      "french_name": "FID Fidelity Demande D’ouverture de Compte – REE familial",
+      "eng_pdf": "FID/Fidelity Family RESP Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity Family RESP Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-INDIVIDUAL-RESP-APP",
+      "english_name": "FID Fidelity Application for Individual ESP account",
+      "french_name": "FID Fidelity Demande D’ouverture de Compte – REE individuel",
+      "eng_pdf": "FID/Fidelity Individual RESP Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity Individual RESP Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-INVESTMENT-APPLICATION",
+      "english_name": "FID Fidelity Application for Investment Account",
+      "french_name": "FID Fidelity Demande D’ouverture de Compte de Placement",
+      "eng_pdf": "FID/Fidelity Investment Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity Investment Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-REGISTERED-TRANSFER-FORM",
+      "english_name": "FID Fidelity Transfer Authorization for Registered Investments",
+      "french_name": "FID Fidelity Autorisation de transfert pour les placements enregistrés",
+      "eng_pdf": "FID/Fidelity Registered Transfer Form_EN_0825.pdf",
+      "fre_pdf": "FID/Fidelity Registered Transfer Form_FR_0825.pdf",
+      "tags": [
+        "XIN",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-RETIREMENT-INCOME-APP",
+      "english_name": "FID Fidelity Application for Retirement Income Fund",
+      "french_name": "FID Fidelity Demande d’ouverture de fonds de revenu de retraite",
+      "eng_pdf": "FID/Fidelity Retirement Income Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity Retirement Income Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "INCOME",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "FID-TFSA-APPLICATION",
+      "english_name": "FID Fidelity Application for Tax-Free Savings Account",
+      "french_name": "FID Fidelity Demande d’ouverture de compte d’épargne libre d’impôt",
+      "eng_pdf": "FID/Fidelity TFSA Application_EN_0525.pdf",
+      "fre_pdf": "FID/Fidelity TFSA Application_FR_0525.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "FID"
+      ]
+    },
+    {
+      "form_code": "BMO-NAAF-INVESTMENT",
+      "english_name": "BMO (Advisor) Application Form",
+      "french_name": "BMO Demande d'ouverture de compte BMO (Conseiller)",
+      "eng_pdf": "GGF/BMO-NAAF-INVESTMENT-EN-1023.pdf",
+      "fre_pdf": "GGF/BMO-NAAF-INVESTMENT-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "BMO",
+        "GGF"
+      ]
+    },
+    {
+      "form_code": "BMO-REGISTERED-TRANSFER",
+      "english_name": "BMO Transfer Authorization for Registered Investments",
+      "french_name": "BMO Autorisation de transfert de placements enregistrés",
+      "eng_pdf": "GGF/BMO-REGISTERED-TRANSFER-EN-0725.pdf",
+      "fre_pdf": "GGF/BMO-REGISTERED-TRANSFER-FR-0725.pdf",
+      "tags": [
+        "XIN",
+        "BMO",
+        "GGF"
+      ]
+    },
+    {
+      "form_code": "NBC-NAAF-CASH-RSP",
+      "english_name": "NBC National Bank Account Opening - Cash and RSP",
+      "french_name": "NBC Banque Nationale Ouverture de compte - Comptant et RER",
+      "eng_pdf": "NBC/NBC-NAAF-CASH_RSP-EN.pdf",
+      "fre_pdf": "NBC/NBC-NAAF-CASH_RSP-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RRSP",
+        "NBC"
+      ]
+    },
+    {
+      "form_code": "NBC-NAAF-EDUCATION",
+      "english_name": "NBC National Bank Account Opening - Education Savings",
+      "french_name": "NBC Banque Nationale Ouverture de compte - épargne-études",
+      "eng_pdf": "NBC/NBC-NAAF-EDUCATION-EN.pdf",
+      "fre_pdf": "NBC/NBC-NAAF-EDUCATION-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "NBC"
+      ]
+    },
+    {
+      "form_code": "NBC-NAAF-INCOME",
+      "english_name": "NBC National Bank Account Opening - Retirement Income",
+      "french_name": "NBC Banque Nationale Ouverture de compte - revenu de retraite",
+      "eng_pdf": "NBC/NBC-NAAF-INCOME-EN.pdf",
+      "fre_pdf": "NBC/NBC-NAAF-INCOME-FR.pdf",
+      "tags": [
+        "NAAF",
+        "INCOME",
+        "NBC"
+      ]
+    },
+    {
+      "form_code": "NBC-NAAF-TFSA",
+      "english_name": "NBC National Bank Account Opening - TFSA",
+      "french_name": "NBC Banque Nationale Ouverture de compte - CELI",
+      "eng_pdf": "NBC/NBC-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "NBC/NBC-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "NBC"
+      ]
+    },
+    {
+      "form_code": "RBF-NAAF-INCOME",
+      "english_name": "RBF Retirement Income Fund Application Form",
+      "french_name": "RBF Demande d'ouverture d'un fonds de revenu de retraite et ordre d'opération",
+      "eng_pdf": "RBF/RBF-NAAF-INCOME-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-NAAF-INCOME-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "INCOME",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RBF-NAAF-INVESTMENT",
+      "english_name": "RBF Retirement Savings Plan Application Form",
+      "french_name": "RBF Demande d'ouverture d'un régime d'épargne-retraite et ordre d'opération",
+      "eng_pdf": "RBF/RBF-NAAF-INVESTMENT-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-NAAF-INVESTMENT-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "RRSP",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RBF-NAAF-INVESTMENT-PAC-AWD",
+      "english_name": "RBF Non Registered Account Application Form",
+      "french_name": "RBF Demande d'ouverture de compte non enregistré",
+      "eng_pdf": "RBF/RBF-NAAF-INVESTMENT-PAC-AWD-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-NAAF-INVESTMENT-PAC-AWD-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RBF-NAAF-TFSA",
+      "english_name": "RBF Tax Free Saving Account Application Form",
+      "french_name": "RBF Demande d'ouverture d'un compte d'épargne libre d'impôt et ordre d'opération",
+      "eng_pdf": "RBF/RBF-NAAF-TFSA-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-NAAF-TFSA-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RBF-NAAF-TFSA-BENEFICIARY",
+      "english_name": "RBF Tax Free Saving Account Successor Holder, Beneficiary Designation or Revocation Form",
+      "french_name": "RBF Désignation ou révocation de titulaire remplaçant ou de bénéficiaire d'un compte d'épargne libre d'impôt",
+      "eng_pdf": "RBF/RBF-NAAF-TFSA_BENEFECIARY-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-NAAF-TFSA_BENEFECIARY-FR-1023.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "BENEFICIARY",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RBF-REGISTERED-TRANSFER",
+      "english_name": "RBF Transfer Authorization for Registered Investments",
+      "french_name": "RBF Autorisation de transfert des placements enregistrés",
+      "eng_pdf": "RBF/RBF-REGISTERED-TRANSFER-EN-1023.pdf",
+      "fre_pdf": "RBF/RBF-REGISTERED-TRANSFER-FR-1023.pdf",
+      "tags": [
+        "XIN",
+        "RBF"
+      ]
+    },
+    {
+      "form_code": "RDBA-CICF-FORM",
+      "english_name": "RDBA Client Information and Consent Form",
+      "french_name": "RDBA Formulaire De Consentement Et D’Information Sur Le Client",
+      "eng_pdf": "RDBA/RDBA-CICF-FORM-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-CICF-FORM-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-CICF-FORM-ITF",
+      "english_name": "RDBA Client Information and Consent Form - In Trust For",
+      "french_name": "RDBA Formulaire De Consentement Et D’Information Sur Le Client - En Fiducie Pour",
+      "eng_pdf": "RDBA/RDBA-CICF-FORM-ITF-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-CICF-FORM-ITF-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-CICF-FORM-JOINT",
+      "english_name": "RDBA Client Information and Consent Form - Joint Owner",
+      "french_name": "RDBA Formulaire De Consentement Et D’Information Sur Le Client - Copropriétaire",
+      "eng_pdf": "RDBA/RDBA-CICF-FORM-JOINT-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-CICF-FORM-JOINT-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-GIC-APP",
+      "english_name": "RDBA Guaranteed Investment Certificate Application",
+      "french_name": "RDBA Application Pour Certificat De Placement Garanti",
+      "eng_pdf": "RDBA/RDBA-GIC-APP-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-GIC-APP-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-GIC-APP-JOINT-ITF",
+      "english_name": "RDBA Guaranteed Investment Certificate Application - Joint Owner In Trust For",
+      "french_name": "RDBA Application Pour Certificat De Placement Garanti - Copropriétaire En Fiducie Pour",
+      "eng_pdf": "RDBA/RDBA-GIC-APP-JOINT-ITF-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-GIC-APP-JOINT-ITF-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-ID-VERIFICATION",
+      "english_name": "RDBA Client Identity Verification Form",
+      "french_name": "RDBA Formulaire De Vérification D’Identité Du Client",
+      "eng_pdf": "RDBA/RDBA-ID-VERIFICATION-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-ID-VERIFICATION-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-ID-VERIFICATION-ITF",
+      "english_name": "RDBA Client Identity Verification Form - In Trust For",
+      "french_name": "RDBA Formulaire De Vérification D’Identité Du Client - En Fiducie Pour",
+      "eng_pdf": "RDBA/RDBA-ID-VERIFICATION-ITF-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-ID-VERIFICATION-ITF-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-ID-VERIFICATION-JOINT",
+      "english_name": "RDBA Client Identity Verification Form - Joint Owner",
+      "french_name": "RDBA Formulaire De Vérification D’Identité Du Client - Copropriétaire",
+      "eng_pdf": "RDBA/RDBA-ID-VERIFICATION-JOINT-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-ID-VERIFICATION-JOINT-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-JOINT-AGREEMENT",
+      "english_name": "RDBA Joint Investment Agreement Form",
+      "french_name": "RDBA Formulaire De Consentement Pour Compte De Placement Conjoint",
+      "eng_pdf": "RDBA/RDBA-JOINT-AGREEMENT-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-JOINT-AGREEMENT-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-JOINT-AGREEMENT-ITF",
+      "english_name": "RDBA Joint Investment Agreement Form - Joint Owner In Trust For",
+      "french_name": "RDBA Formulaire De Consentement Pour Compte De Placement Conjoint - Copropriétaire En Fiducie Pour",
+      "eng_pdf": "RDBA/RDBA-JOINT-AGREEMENT-ITF-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-JOINT-AGREEMENT-ITF-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-PEP-FORM",
+      "english_name": "RDBA Politically Exposed Person Form",
+      "french_name": "RDBA Formulaire Pour Personnes Politiquement Vulnérables",
+      "eng_pdf": "RDBA/RDBA-PEP-FORM-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-PEP-FORM-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-PEP-FORM-ITF",
+      "english_name": "RDBA Politically Exposed Person Form - In Trust For",
+      "french_name": "RDBA Formulaire Pour Personnes Politiquement Vulnérables - En Fiducie Pour",
+      "eng_pdf": "RDBA/RDBA-PEP-FORM-ITF-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-PEP-FORM-ITF-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "RDBA-PEP-FORM-JOINT",
+      "english_name": "RDBA Politically Exposed Person Form - Joint Owner",
+      "french_name": "RDBA Formulaire Pour Personnes Politiquement Vulnérables - Copropriétaire",
+      "eng_pdf": "RDBA/RDBA-PEP-FORM-JOINT-EN.pdf",
+      "fre_pdf": "RDBA/RDBA-PEP-FORM-JOINT-FR.pdf",
+      "tags": [
+        "RDBA"
+      ]
+    },
+    {
+      "form_code": "SLC-NAAF-INVESTMENT",
+      "english_name": "SLC Starlight Investment Application Form",
+      "french_name": "SLC Starlight Formulaire de demande de placement",
+      "eng_pdf": "SLC/SLC-NAAF-INVESTMENT-EN.pdf",
+      "fre_pdf": "SLC/SLC-NAAF-INVESTMENT-FR.pdf",
+      "tags": [
+        "NAAF",
+        "SLC"
+      ]
+    },
+    {
+      "form_code": "SLC-NAAF-TFSA",
+      "english_name": "SLC Starlight Capital Tax-Free Savings Account Application",
+      "french_name": "SLC Starlight Capital Compte d’épargne libre d’impôt Demande d’adhésion",
+      "eng_pdf": "SLC/SLC-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "SLC/SLC-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "SLC"
+      ]
+    },
+    {
+      "form_code": "SLC-REGISTERED-TRANSFER",
+      "english_name": "SLC Starlight Capital Transfer Authorization for Registered Investments",
+      "french_name": "SLC Autorisation de transfert de placements enregistrés Starlight Capital",
+      "eng_pdf": "SLC/SLC-REGISTERED-TRANSFER-EN.pdf",
+      "fre_pdf": "SLC/SLC-REGISTERED-TRANSFER-FR.pdf",
+      "tags": [
+        "XIN",
+        "SLC"
+      ]
+    },
+    {
+      "form_code": "SLF-NAAF-NOMINEE",
+      "english_name": "SLF Sun Life Guaranteed Investment Funds (GIFs) – Nominee & Intermediary Application",
+      "french_name": "SLF Fonds de placement garanti (FPG) Financière Sun Life - Demande de compte de propriétaire apparent et d'intermédiaire",
+      "eng_pdf": "SLG/SLF-NAAF-Nominee-EN.pdf",
+      "fre_pdf": "SLG/SLF-NAAF-Nominee-FR.pdf",
+      "tags": [
+        "NAAF"
+      ]
+    },
+    {
+      "form_code": "SLF-NAAF-NON-REGISTERED",
+      "english_name": "SLF Sun Life Guaranteed Investment Funds (GIFs) – Non-Registered/Registered/Locked-in Application",
+      "french_name": "SLF Fonds de placement garanti (FPG) Financière Sun Life Proposition de contrat non enregistré/enregistré/immobilisé",
+      "eng_pdf": "SLG/SLF-NAAF-Non-Registered-EN.pdf",
+      "fre_pdf": "SLG/SLF-NAAF-Non-Registered-FR.pdf",
+      "tags": [
+        "NAAF"
+      ]
+    },
+    {
+      "form_code": "SLF-NAAF-TFSA",
+      "english_name": "SLF Sun Life Guaranteed Investment Funds (GIFs) – TFSA Application",
+      "french_name": "SLF Fonds de placement garanti (FPG) Financière Sun Life - Demande de CELI",
+      "eng_pdf": "SLG/SLF-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "SLG/SLF-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA"
+      ]
+    },
+    {
+      "form_code": "SUN-NAAF-INVESTMENT",
+      "english_name": "SUN Mutual Fund Investment Application form",
+      "french_name": "SUN Demande de placement Fonds communs de placement",
+      "eng_pdf": "SLG/SUN-NAAF-INVESTMENT-EN.pdf",
+      "fre_pdf": "SLG/SUN-NAAF-INVESTMENT-FR.pdf",
+      "tags": [
+        "NAAF",
+        "SUN"
+      ]
+    },
+    {
+      "form_code": "SUN-NAAF-RESP",
+      "english_name": "SUN Education savings plan Mutual fund application form",
+      "french_name": "SUN Régime d'épargne-études Demande de fonds communs de placement",
+      "eng_pdf": "SLG/SUN-NAAF-RESP-EN.pdf",
+      "fre_pdf": "SLG/SUN-NAAF-RESP-FR.pdf",
+      "tags": [
+        "NAAF",
+        "RESP",
+        "SUN"
+      ]
+    },
+    {
+      "form_code": "SUN-NAAF-TFSA",
+      "english_name": "SUN - Tax-free savings account - Mutual fund application form",
+      "french_name": "SUN - Compte d'épargne libre d'impôt - Demande de fonds communs de placement",
+      "eng_pdf": "SLG/SUN-NAAF-TFSA-EN.pdf",
+      "fre_pdf": "SLG/SUN-NAAF-TFSA-FR.pdf",
+      "tags": [
+        "NAAF",
+        "TFSA",
+        "SUN"
+      ]
+    }
+  ]
+}

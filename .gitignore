@@ -1,0 +1,9 @@
+.env
+.env.*
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log

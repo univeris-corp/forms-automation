@@ -1,0 +1,6 @@
+{
+  "FLEX_TEST": {
+    "db_host": "example-db.flex.univeris.com",
+    "db_name": "uvs_ba"
+  }
+}

@@ -77,7 +77,7 @@ python ewms_form_loader.py load-package-forms `
 ```text
 {
   "FLEX_TEST": {
-    "db_host": "flextest-uat-db.flex.univeris.com",
+    "db_host": "example-uat-db.flex.univeris.com",
     "db_name": "uvs_ba"
   },
   ...

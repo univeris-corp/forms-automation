@@ -27,7 +27,7 @@ python ewms_form_loader.py load-package-forms `
 
 | # | Parameter                         | Type | Required | Notes                                                                   |
 | - | --------------------------------- | ---- | -------- | ----------------------------------------------------------------------- |
-| 1 | <pre>--forms-package</pre>       | Path | Yes      | Path to forms_package.json                                              |
+| 1 | `--forms-package`               | Path | Yes      | Path to forms_package.json                                              |
 | 2 | `--tenants`                     | Path | Yes      | Path to tenants.json                                                    |
 | 3 | `--db-user`                     | Text | No       | SQL Server login name                                                   |
 | 4 | `--db-password`                 | Text | No       | SQL Server login password                                               |

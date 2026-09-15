@@ -26,10 +26,11 @@ python ewms_form_loader.py load-package-forms `
 | - | --------------------------------- | ---- | -------- | ----------------------------------------------------------------------- |
 | 1 | `--forms-package`               | Path | Yes      | Path to forms_package.json                                              |
 | 2 | `--tenants`                     | Path | Yes      | Path to tenants.json                                                    |
-| 3 | `--db-user` / `--db-password` | Text | No       | SQL Server login                                                        |
-| 4 | `--db-driver`                   | Text | No       | Installed pyodbc driver                                                 |
-| 5 | `--apply`                       | Flag | No       | Commit the transactions; otherwise dry run with rollback                |
-| 6 | `--yes`                         | Flag | No       | Skip the update confirmation prompt on`--apply`, for unattended runs. |
+| 3 | `--db-user`                     | Text | No       | SQL Server login name                                                   |
+| 4 | `--db-password`                 | Text | No       | SQL Server login password                                               |
+| 5 | `--db-driver`                   | Text | No       | Installed pyodbc driver                                                 |
+| 6 | `--apply`                       | Flag | No       | Commit the transactions; otherwise dry run with rollback                |
+| 7 | `--yes`                         | Flag | No       | Skip the update confirmation prompt on`--apply`, for unattended runs. |
 
 ---
 

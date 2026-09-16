@@ -7,6 +7,8 @@
 
 ## Setup
 
+Download the latest forms package from [NetworkXPRESS](https://univeris.atlassian.net/wiki/spaces/CP/pages/73402166/NetworkXPRESS).
+
 ```powershell
 pip install -r requirements.txt   # one-time
 
